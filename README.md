@@ -1,1 +1,3 @@
-Base de code pour le cours HTML CSS
+<p>
+Voici mon lien a propos</p><br>
+<a href="a-propos.html">Dossier-demo</a>
